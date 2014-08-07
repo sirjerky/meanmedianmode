@@ -1,0 +1,19 @@
+{
+  "name": "meanmedianmode",
+  "version": "0.0.0",
+  "description": "\"quick program to check for mean, median and mode of a set of numbers.\"",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/sirjerky/meanmedianmode.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/sirjerky/meanmedianmode/issues"
+  },
+  "homepage": "https://github.com/sirjerky/meanmedianmode"
+}
